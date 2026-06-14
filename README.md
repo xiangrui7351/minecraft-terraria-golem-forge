@@ -8,6 +8,9 @@ Terraria Golem Forge 是一个适用于 Minecraft Forge 1.20.1 / 47.4.20 的 Bos
 
 本模组包含 Boss 血条、持久化实体、召唤方块、召唤物品、刷怪蛋、掉落表、宝藏袋和服务端安全的投射物逻辑。所有材质均为原创像素风格，不复制 Terraria 原版素材。
 
+缺点  
+目前模型仍有些许缺陷，但不影响正常体验。
+
 ## English Introduction
 
 Terraria Golem Forge is a Minecraft Forge 1.20.1 / 47.4.20 boss mod. It adds a Minecraft-styled jungle temple stone idol boss inspired by Terraria's Golem, with original pixel-art textures for the stone body, detached head, chest core, heavy arms, and chained fists.
@@ -15,6 +18,9 @@ Terraria Golem Forge is a Minecraft Forge 1.20.1 / 47.4.20 boss mod. It adds a M
 Players can place a Lihzahrd Altar and use a Lihzahrd Power Cell on it to summon the boss. The fight uses multiple interactive parts: body, head, left fist, and right fist. The head fires bouncing fireballs and eye beams, the chained fists extend toward players, and the body leaps into heavy ground-slam attacks. Once the head reaches its breaking point, it detaches and keeps attacking while the body becomes the main kill target.
 
 The mod includes boss-bar status, persistent entities, a summon block, summon item, spawn egg, loot tables, treasure bag rewards, and server-safe projectile logic. All textures are original Minecraft-style pixel art and do not copy Terraria's original assets.
+
+Known Issue  
+The model still has minor imperfections, but they do not affect normal gameplay.
 
 ## 基本信息 / Basic Info
 

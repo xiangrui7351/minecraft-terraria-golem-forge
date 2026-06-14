@@ -1,0 +1,148 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "terrariagolem:block/golem_altar_side",
+    "side": "terrariagolem:block/golem_altar_side",
+    "top": "terrariagolem:block/golem_altar_base_top",
+    "gold": "terrariagolem:block/golem_altar_gold",
+    "star": "terrariagolem:block/golem_altar_star"
+  },
+  "elements": [
+    {
+      "from": [2, 0, 2],
+      "to": [14, 3, 14],
+      "faces": {
+        "down": { "texture": "#side" },
+        "up": { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west": { "texture": "#side" },
+        "east": { "texture": "#side" }
+      }
+    },
+    {
+      "from": [3, 3, 3],
+      "to": [13, 6, 13],
+      "faces": {
+        "down": { "texture": "#side" },
+        "up": { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west": { "texture": "#side" },
+        "east": { "texture": "#side" }
+      }
+    },
+    {
+      "from": [1, 6, 1],
+      "to": [15, 8, 15],
+      "faces": {
+        "down": { "texture": "#side" },
+        "up": { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west": { "texture": "#side" },
+        "east": { "texture": "#side" }
+      }
+    },
+    {
+      "from": [4, 8, 4],
+      "to": [12, 10, 12],
+      "faces": {
+        "down": { "texture": "#side" },
+        "up": { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west": { "texture": "#side" },
+        "east": { "texture": "#side" }
+      }
+    },
+    {
+      "from": [3, 9, 3],
+      "to": [5, 11, 5],
+      "faces": {
+        "down": { "texture": "#gold" },
+        "up": { "texture": "#gold" },
+        "north": { "texture": "#gold" },
+        "south": { "texture": "#gold" },
+        "west": { "texture": "#gold" },
+        "east": { "texture": "#gold" }
+      }
+    },
+    {
+      "from": [11, 9, 3],
+      "to": [13, 11, 5],
+      "faces": {
+        "down": { "texture": "#gold" },
+        "up": { "texture": "#gold" },
+        "north": { "texture": "#gold" },
+        "south": { "texture": "#gold" },
+        "west": { "texture": "#gold" },
+        "east": { "texture": "#gold" }
+      }
+    },
+    {
+      "from": [4, 9, 4],
+      "to": [12, 10, 12],
+      "faces": {
+        "down": { "texture": "#gold" },
+        "up": { "texture": "#gold" },
+        "north": { "texture": "#gold" },
+        "south": { "texture": "#gold" },
+        "west": { "texture": "#gold" },
+        "east": { "texture": "#gold" }
+      }
+    },
+    {
+      "from": [6, 17, 6],
+      "to": [10, 21, 10],
+      "shade": false,
+      "faces": {
+        "down": { "texture": "#star" },
+        "up": { "texture": "#star" },
+        "north": { "texture": "#star" },
+        "south": { "texture": "#star" },
+        "west": { "texture": "#star" },
+        "east": { "texture": "#star" }
+      }
+    },
+    {
+      "from": [3, 18, 7],
+      "to": [13, 20, 9],
+      "shade": false,
+      "faces": {
+        "down": { "texture": "#star" },
+        "up": { "texture": "#star" },
+        "north": { "texture": "#star" },
+        "south": { "texture": "#star" },
+        "west": { "texture": "#star" },
+        "east": { "texture": "#star" }
+      }
+    },
+    {
+      "from": [7, 18, 3],
+      "to": [9, 20, 13],
+      "shade": false,
+      "faces": {
+        "down": { "texture": "#star" },
+        "up": { "texture": "#star" },
+        "north": { "texture": "#star" },
+        "south": { "texture": "#star" },
+        "west": { "texture": "#star" },
+        "east": { "texture": "#star" }
+      }
+    },
+    {
+      "from": [7, 15, 7],
+      "to": [9, 23, 9],
+      "shade": false,
+      "faces": {
+        "down": { "texture": "#star" },
+        "up": { "texture": "#star" },
+        "north": { "texture": "#star" },
+        "south": { "texture": "#star" },
+        "west": { "texture": "#star" },
+        "east": { "texture": "#star" }
+      }
+    }
+  ]
+}

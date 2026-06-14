@@ -1,0 +1,18 @@
+{
+  "itemGroup.terrariagolem.main": "泰拉瑞亚石巨人",
+  "entity.terrariagolem.terraria_golem": "丛林神庙石巨人",
+  "entity.terrariagolem.terraria_golem_head": "丛林神庙石巨人头部",
+  "entity.terrariagolem.terraria_golem_fist": "丛林神庙石巨人之拳",
+  "block.terrariagolem.golem_altar": "丛林神庙祭坛",
+  "item.terrariagolem.golem_power_cell": "丛林蜥蜴电池",
+  "item.terrariagolem.golem_treasure_bag": "石巨人宝藏袋",
+  "item.terrariagolem.beetle_husk": "甲虫外壳",
+  "item.terrariagolem.sun_core": "太阳核心",
+  "item.terrariagolem.terraria_golem_spawn_egg": "丛林神庙石巨人刷怪蛋",
+  "message.terrariagolem.altar_awake": "附近已经有一只丛林神庙石巨人苏醒了。",
+  "bossbar.terrariagolem.compact": "%s - 本体 %s | 头 %s | 左 %s | 右 %s",
+  "bossbar.terrariagolem.locked": "锁定",
+  "bossbar.terrariagolem.detached": "离体",
+  "bossbar.terrariagolem.destroyed": "已毁",
+  "bossbar.terrariagolem.missing": "--"
+}

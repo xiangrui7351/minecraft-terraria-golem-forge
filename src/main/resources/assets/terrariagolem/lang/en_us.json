@@ -1,0 +1,18 @@
+{
+  "itemGroup.terrariagolem.main": "Terraria Golem",
+  "entity.terrariagolem.terraria_golem": "Lihzahrd Golem",
+  "entity.terrariagolem.terraria_golem_head": "Lihzahrd Golem Head",
+  "entity.terrariagolem.terraria_golem_fist": "Lihzahrd Golem Fist",
+  "block.terrariagolem.golem_altar": "Lihzahrd Altar",
+  "item.terrariagolem.golem_power_cell": "Lihzahrd Power Cell",
+  "item.terrariagolem.golem_treasure_bag": "Golem Treasure Bag",
+  "item.terrariagolem.beetle_husk": "Beetle Husk",
+  "item.terrariagolem.sun_core": "Sun Core",
+  "item.terrariagolem.terraria_golem_spawn_egg": "Lihzahrd Golem Spawn Egg",
+  "message.terrariagolem.altar_awake": "A Lihzahrd Golem is already awake nearby.",
+  "bossbar.terrariagolem.compact": "%s - Body %s | Head %s | L %s | R %s",
+  "bossbar.terrariagolem.locked": "Locked",
+  "bossbar.terrariagolem.detached": "Detached",
+  "bossbar.terrariagolem.destroyed": "Gone",
+  "bossbar.terrariagolem.missing": "--"
+}
